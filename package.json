@@ -1,0 +1,27 @@
+{
+  "name": "Car Rental WoW",
+  "version": "1.0.0",
+  "description": "No description",
+  "author": "Fabricio",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "sdkVersion": "28.0.0",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "axios": "0.19.0",
+    "react-dom": "^16.3.0",
+    "react-native-datepicker": "1.7.2",
+    "react-native-dropdown-menu": "2.0.0",
+    "react-native-elements": "1.1.0",
+    "react-native-masked-text": "1.12.3",
+    "react-native-material-dropdown": "0.11.1",
+    "react-native-paper": "2.2.8",
+    "react-native-searchable-dropdown": "1.0.6",
+    "react-native-vector-icons": "6.4.2",
+    "react-navigation": "3.11.0",
+    "rn-material-textinput": "1.0.0",
+    "semantic-ui-react": "0.87.1"
+  }
+}
